@@ -15,7 +15,7 @@ I am a programmer, musician and entrepreneur pursuing a Masters of Computer Scie
   Read about how I vibe-coded websites to prank my friends and family [here](https://bubbles-ai.onrender.com/)
 
  ## How to get smarter 🌱
- Here's some videos and websites I recommend to *expand* your brain
+ Here's some resources I recommend to *expand* your brain
 - https://www.youtube.com/watch?v=kKAue9DiHc0 - 10x Engineer Parody YT video
 - https://cpu.land/the-basics - CPU basics
 - https://ctf.sigpwny.com/challenges - Hacker challenges
