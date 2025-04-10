@@ -12,7 +12,7 @@ I am a programmer, musician and entrepreneur pursuing an MS in Computer Science 
 - 2023 - VR Software Developer, AbbVie
 - 2022 - Frontend Web Developer Intern, Showingly
   ###### I also like memes ( ͡° ͜ʖ ͡°)   
-  Read about how I vibe-coded an ai meme generator [here](https://bubbles-ai.onrender.com/)
+  Read about how I vibe-coded an AI meme generator [here](https://bubbles-ai.onrender.com/)
 
  ## How to get smarter 🌱
  Here's some resources I recommend to *expand* your brain
