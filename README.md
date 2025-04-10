@@ -11,7 +11,7 @@ I am a programmer, musician and entrepreneur pursuing an MS in Computer Science 
 - 2024 - AI Software Engineer, AbbVie 
 - 2023 - VR Software Developer, AbbVie
 - 2022 - Frontend Web Developer Intern, Showingly
-  ###### I also occasionally troll people ( ͡° ͜ʖ ͡°)   
+  ###### I also like memes ( ͡° ͜ʖ ͡°)   
   Read about how I vibe-coded websites to prank my friends and family [here](https://bubbles-ai.onrender.com/)
 
  ## How to get smarter 🌱
