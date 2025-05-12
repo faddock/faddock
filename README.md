@@ -2,7 +2,7 @@
 <img src="giphy.gif" alt="Animated Greeting" width="180" align="right" />  
  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square)](https://www.linkedin.com/in/suyashnagumalli/)
-[![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat-square)](https://suyashnagumalli.com/Suyash_Nagumalli_Resume_SP25.pdf/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat-square)](https://suyashnagumalli.com/resume/)
 [![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square)](https://suyashnagumalli.com/)
 ![](https://komarev.com/ghpvc/?username=faddock&abbreviated=true)
 
