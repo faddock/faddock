@@ -6,9 +6,9 @@
 [![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square)](https://suyashnagumalli.com/)
 ![](https://komarev.com/ghpvc/?username=faddock&abbreviated=true)
 
-I am a programmer, musician and entrepreneur pursuing an MS in Computer Science at UIUC 🔶🔷   
+I am a programmer, musician and entrepreneur with a BS-MCS degree in Computer Science from UIUC 🔶🔷  
 
-- 2024 - AI Software Engineer, AbbVie 
+- 2024 - AI Software Engineer, AbbVie - present
 - 2023 - VR Software Developer, AbbVie
 - 2022 - Frontend Web Developer Intern, Showingly
   ###### I also like memes ( ͡° ͜ʖ ͡°)   
